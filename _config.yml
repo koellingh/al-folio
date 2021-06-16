@@ -2,11 +2,11 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+title: Henry Koelling # the website title (if blank, full name will be used instead)
+first_name: Henry   
+middle_name: B. 
+last_name: Koelling
+email: koellingh@carleton.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -43,10 +43,10 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: koellingh
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
-linkedin_username: # your LinkedIn user name
+twitter_username: KoellingH
+linkedin_username: Henry Koelling
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
@@ -68,8 +68,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_description: a space where I can practice my creative writing and release my convoluted ideas into the world wide web
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -143,8 +143,8 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Koelling
+  first_name: [Koelling, B..]
 
   style: apa
   locale: en
