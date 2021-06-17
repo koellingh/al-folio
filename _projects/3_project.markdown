@@ -1,25 +1,13 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: /assets/img/7.jpg
-redirect: https://unsplash.com
+title: Effects of p53 Gene Expression in Cancer Evolution
+description: Built simulation to examine effects of p53 gene on cancer evolution
+img: /assets/img/p53.png
 importance: 3
-category: work
+category: Computational Biology
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+One known contributor to increased cancer risk is the level of expression of the p53 gene which produces proteins that assist in proofreading replicated genetic information during cell reproduction and terminate the cell when a mutation is detected. As important as the p53 gene is in stabilizing the body system from acquiring potentially harmful mutations, it requires a significant amount of activation energy. Our study aims to replicate this biological process to gain insight on the relationship between p53 gene expression and energy cost. We have built an adapted simulation from the Empirical Software that emulates this process by creating a world of organisms that are able to mutate their p53 gene expression rate. Specifically, we implemented our simulation by adjusting the rates of malignant and benign mutations, symbolic of cancerous and silent mutations, and rates of p53 gene expression. We enable these values to mutate over time and keep track of the average p53 gene expression rate among organisms in our simulation. After running 3500 simulations with varying starting p53 gene expression and malign and benign mutation rates, we observed that our organisms reached a lower equilibrium of average p53 rate when the amount of mutation rates, malignant or benign, were higher- a novel relationship between the p53 gene in cell behavior. Moving forward, we hope to improve our emulation of cancerous and silent mutations in cell replication to spotlight the relationship more effectively between overall cell mutation rates and p53 gene expression equilibrium.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

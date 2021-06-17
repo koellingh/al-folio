@@ -68,7 +68,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Blog  # your blog must have a name for it to show up in the nav bar
+blog_name: Updates  # your blog must have a name for it to show up in the nav bar
 blog_description: a space where I can practice my creative writing and release my convoluted ideas into the world wide web
 permalink: /blog/:year/:title/
 

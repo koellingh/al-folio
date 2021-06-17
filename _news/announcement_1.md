@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2020-9-7 15:59:00-0400
+date: 2020-11-23 15:59:00-0400
 inline: true
 ---
 
-Began working in the Carleton College Computer Science Department as a Course Staff member for CS201 (Data Structures), CS202 (Math of CS), and CS252 (Algorithms)
+Received funding via the <a href="https://www.carleton.edu/math-science/research/studentresearchaway/">Kolenkow-Reitz Fellowship</a> to work with Dr. Nikita Pozdeyev at the <a href="https://www.cuanschutz.edu/">University of Colorado Anschutz Medical Campus</a> in performing RNA Sequencing analysis on clinical data for Adrenal Cortical Carcinoma (ACC) drug therapy research

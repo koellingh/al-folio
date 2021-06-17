@@ -1,24 +1,15 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: /assets/img/3.jpg
+title: RNA Sequencing Analysis in Adrenal Cortical Carcinoma (ACC) samples
+description: RNA Sequencing analysis on Adrenal Cortical Carcinoma (ACC) cells given distinct drug therapy treatments
+img: /assets/img/adrenal_cortical_carcinoma.jpg
 importance: 2
-category: work
+category: Computational Biology
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Thanks to the <a href="https://www.carleton.edu/math-science/research/studentresearchaway/">Kolenkow-Reitz Fellowship</a>, I worked with Dr. Nikita Pozdeyev at the <a href="https://www.cuanschutz.edu/">University of Colorado Anschutz Medical Campus</a> in performing RNA Sequencing analysis on clinical data for Adrenal Cortical Carcinoma (ACC) drug therapy research. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Due to my confidentiality agreement with the University of Colorado Anschutz Medical Campus, I cannot disclose information about our findings, however, I can articulate our use of the RNA Sequencing pipeline and approach in analyizing the data.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

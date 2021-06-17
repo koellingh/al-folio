@@ -1,24 +1,47 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: /assets/img/1.jpg
-importance: 3
-category: fun
+title: Gucci Mane Re-inspired
+description: A series of twitterbots designed to arbitrarily generate inspirational tweets using the grammatical structures and vocabulary of a fixed set of inspirational tweets from Gucci Mane himself (@gucci1017)
+img: /assets/img/gucci_mane.jpg
+importance: 5
+category: Digital Humanities
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+I aimed to emulate Victor Yngve’s computer pro-gram that used a grammar to generate text from the children’s book ”The Little Train”.  In substitution for ”The Little Train”, I used a series of inspirational tweets from Gucci Mane (@gucci1017).I separated each word from his tweets by its function in the sentence (nouns, adjectives, presentverbs, past verbs, etc.) and identified the different sentence structures in the tweets (commands,phrases, etc.). The grammar arbitrarily picks a sentence structure, and then fills that sentence structure with any of the vocabulary from the tweets. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+After  generating  a  bunch  of  inspirational  quotes, I chose my favorite to laser cut onto a plaque in the wood shop at Carleton.  The plaque includes the quote, a signature, and a roman numeral. The signature is an ice cream cone with lightning bolts coming out of the right side and the top of the cone; this cone is symbolic of Gucci Mane in that he has this tattooed on his right cheek. The roman numeral in the bottom right signifies the copy of the plaque; the one pictured below is the first copy made. There will be a total of two copies made.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Here is a list of Used Tweets:
+- More action less talk!
+- The more you learn the more you earn
+- Time to go super hard.- Demand the most out yourself!
+- Don’t be be scared to try.
+- Go harder.
+- Wake up go hard go to sleep repeat!
+- Stay ready so you don’t have to get ready.
+- Don’t underestimate yourself
+- Think bigger.
+- Work on yourself
+- Stop being lazy.
+- Watch who you take advice from
+- Keep going.
+- Stay focused.
+- Believe it then achieve it
+- The only thing you can do is do more!
+- Whoever said it would be easy lied!
+- Successful people do what unsuccessful people want to do.
+- If you want it work for it!
+- It ain’t gone be easy
+- Losses are lessons!
+- Just keep getting better!
+- Life is real.
+- It ain’t gone be easy!
+- Health is wealth.
+- Talk is cheap.
+- I make moves not excuses.
+- Water stops fire and love stops hate.
+- United we ball divided we fall.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
