@@ -6,19 +6,17 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Koelling_Henry_photo.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>2609 English Oak Dr</p>
+    <p>Ann Arbor MI, 40103</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Henry Koelling, a class of 2022 <a href="https://www.carleton.edu/computer-science/">Computer Science</a> major and<a href="https://www.carleton.edu/digital-arts-humanities/">Digital Arts and Humanities</a> minor at <a href="https://www.carleton.edu/">Carleton College</a>! I'm from Ann Arbor, Michigan, although I am currently located in Northfield, Minnesota. I am passionate about <a href="https://www.nature.com/subjects/computational-biology-and-bioinformatics">computational biology</a> with an emphasis on machine learning techniques in analyzing genome-wide association studies (GWAS), and digital humanities. This website aims to document my projects involving my academic endeavors in addition to providing general life updates. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Outside of academics, I enjoy playing and watching soccer, engaging in contentious conversations, and making people laugh. Hope you enjoy! Feel free to contact me if you have any questions or would like to learn more about my projects!
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

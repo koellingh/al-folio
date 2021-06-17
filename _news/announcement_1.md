@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2020-9-7 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Began working in the Carleton College Computer Science Department as a Course Staff member for CS201 (Data Structures), CS202 (Math of CS), and CS252 (Algorithms)

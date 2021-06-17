@@ -14,9 +14,9 @@ footer_text: >
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon: 🏮 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -46,7 +46,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: koellingh
 gitlab_username: # your GitLab user name
 twitter_username: KoellingH
-linkedin_username: Henry Koelling
+linkedin_username: henry-koelling-9733a3181
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
