@@ -8,7 +8,8 @@ profile:
   align: right
   image: Koelling_Henry_photo.jpg
   address: >
-    <p>Computational Biology | Digital Humanities</p>
+    <p>Computational Biology</p>
+    <p>Digital Humanities</p>
     <p>Carleton College 2022</p>
 
 news: true  # includes a list of news items
